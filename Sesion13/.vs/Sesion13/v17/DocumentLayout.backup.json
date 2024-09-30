@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57E84842-C22A-4D03-BF12-EF13492B402F}|Registro\\Registro.csproj|c:\\users\\naole\\onedrive\\repositorio\\sesion13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E84842-C22A-4D03-BF12-EF13492B402F}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|c:\\users\\naole\\onedrive\\repositorio\\sesion13\\burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|c:\\users\\naole\\onedrive\\repositorio\\sesion13\\burbuja\\operaciones\\burbuja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57E84842-C22A-4D03-BF12-EF13492B402F}|Registro\\Registro.csproj|c:\\users\\naole\\onedrive\\repositorio\\sesion13\\registro\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E84842-C22A-4D03-BF12-EF13492B402F}|Registro\\Registro.csproj|solutionrelative:registro\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E84842-C22A-4D03-BF12-EF13492B402F}|Registro\\Registro.csproj|c:\\users\\naole\\onedrive\\repositorio\\sesion13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57E84842-C22A-4D03-BF12-EF13492B402F}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\burbuja\\operaciones\\burbuja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\operaciones\\burbuja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|c:\\users\\naole\\onedrive\\repositorio\\sesion13\\burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F17A678-A5C4-47E0-8D25-3E0E80F43022}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,18 +44,56 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Registro\\Form1.cs",
+              "RelativeToolTip": "Registro\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:21:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Registro\\models\\Persona.cs",
+              "RelativeDocumentMoniker": "Registro\\models\\Persona.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Registro\\models\\Persona.cs",
+              "RelativeToolTip": "Registro\\models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:18:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Registro\\Form1.cs [Design]",
+              "RelativeToolTip": "Registro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:15:15.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Burbuja\\Form1.cs",
               "RelativeDocumentMoniker": "Burbuja\\Form1.cs",
               "ToolTip": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Burbuja\\Form1.cs",
               "RelativeToolTip": "Burbuja\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T13:35:37.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Burbuja.cs",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Burbuja\\operaciones\\Burbuja.cs",
               "RelativeDocumentMoniker": "Burbuja\\operaciones\\Burbuja.cs",
@@ -56,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\REPOSITORIO\\Sesion13\\Burbuja\\Form1.cs",
               "RelativeDocumentMoniker": "Burbuja\\Form1.cs",
